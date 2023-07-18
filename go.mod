@@ -1,4 +1,4 @@
-module github.com/xshazks/websocket-backend
+module github.com/gabyzanna/websocket_backend
 
 go 1.20
 
